@@ -47,15 +47,15 @@ cleanup() {
 }
 trap cleanup SIGINT SIGTERM EXIT
 
-# 4. Start Next.js Frontend Server
-echo "[4/4] Starting Next.js frontend on http://0.0.0.0:3000..."
-npm --prefix frontend run dev -- -p 3000 &
+# 4. Start Frontend Server
+echo "[4/4] Starting Vite frontend on http://0.0.0.0:5173..."
+npm --prefix frontend run dev -- --host 0.0.0.0 --port 5173 &
 FRONTEND_PID=$!
 
 echo ""
 echo "=========================================================="
 echo " PatchPilot is running:"
-echo " Web Application:       http://localhost:3000"
+echo " Web Application:       http://localhost:5173"
 echo " REST API Gateway:      http://localhost:8000"
 echo " Interactive OpenAPI:   http://localhost:8000/docs"
 echo "=========================================================="

@@ -67,7 +67,7 @@ Safety is part of the workflow, not an afterthought. The Safety Layer:
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Frontend** | Next.js 16 (App Router), React 19, TypeScript 7, Three.js, React Three Fiber, Tailwind CSS v4, Framer Motion, Lucide React, Web Audio API |
+| **Frontend** | React 19, TypeScript 7, Vite 8, Three.js, React Three Fiber, Tailwind CSS v4, Framer Motion, Lucide React, Web Audio API |
 | **Backend** | Python 3.12, FastAPI, Uvicorn, Pydantic v2, Requests, Python-dotenv |
 | **Database & Storage** | SQLite3 with WAL mode |
 | **AI & ML** | Ollama with Qwen2.5-Coder, cosine similarity with 1536-dimensional embeddings, SSE for real-time AI streaming |
@@ -84,7 +84,7 @@ chmod +x start.sh
 ./start.sh
 ```
 
-- Web Application: http://localhost:3000
+- Web Application: http://localhost:5173
 - REST API Gateway: http://localhost:8000
 - Interactive OpenAPI Docs: http://localhost:8000/docs
 

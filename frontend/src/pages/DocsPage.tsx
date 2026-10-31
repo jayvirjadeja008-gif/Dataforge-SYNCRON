@@ -93,7 +93,7 @@ export default function DocsPage() {
                 </tr>
                 <tr>
                   <td>Maintainer Dashboard</td>
-                  <td>Next.js 16 (App Router) + React 19</td>
+                  <td>Vite + React Static SPA</td>
                   <td>Client-side session memory</td>
                   <td>GitHub OAuth 2.0 PKCE flow</td>
                 </tr>
