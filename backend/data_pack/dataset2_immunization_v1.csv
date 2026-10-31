@@ -1,0 +1,16 @@
+State / UT,Dist_Name,Facility_Type,BCG_Doses_Administered,DPT_Booster_Count,Measles_Rubella_1st_Dose,Fully_Immunized_Children,Reporting_Month_Year,Data_Source
+Uttaranchal,Dehradun,District Hospital,"14,250","11,890","13,400","12,950",03/2024,NHM-HMIS
+Mysore State,Mysuru,CHC,"22,400","18,920","20,150","19,400",Mar-2024,NHM-HMIS
+Andaman & Nicobar Islands,South Andaman,PHC,"1,280","950","1,100","1,020",2024-03,NHM-HMIS
+Orissa,Cuttack,Sub District Hospital,"18,900","15,400","17,200","16,100",03/2024,NHM-HMIS
+Bihar,Patna,Medical College,"45,200","38,100","41,500","39,800",03-2024,NHM-HMIS
+Maharashtra,Pune,Urban Health Post,"38,700","32,400","35,800","34,100",03/2024,NHM-HMIS
+Gujarat,Ahmedabad,Civil Hospital,"34,120","29,800","31,900","30,450",03/2024,NHM-HMIS
+Pondicherry,Karaikal,PHC,"2,150","1,890","2,010","1,920",03/2024,NHM-HMIS
+UT of Ladakh,Leh,District Hospital,"890","720","840","780",03/2024,NHM-HMIS
+Kerala,Ernakulam,General Hospital,"19,450","17,800","18,900","18,200",03/2024,NHM-HMIS
+Rajasthan,Jaipur,Zila Chikitsalaya,"36,800","30,500","33,400","31,900",03/2024,NHM-HMIS
+Tamilnadu,Coimbatore,Government Hospital,"24,600","21,300","23,100","22,400",03/2024,NHM-HMIS
+Uttar pradesh,Lucknow,KGMU,"52,300","44,100","48,900","46,200",03/2024,NHM-HMIS
+West Bengal,Kolkata,SSKM Hospital,"31,200","26,700","29,500","28,100",03/2024,NHM-HMIS
+Assam,Kamrup Metro,Gauhati Medical College,"16,800","13,900","15,400","14,700",03/2024,NHM-HMIS

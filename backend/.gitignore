@@ -1,0 +1,16 @@
+# Python environment and cache
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+*.db
+*.sqlite
+*.sqlite3
+.env
+.DS_Store
