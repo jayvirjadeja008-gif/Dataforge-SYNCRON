@@ -1,3 +1,4 @@
+'use client';
 import Hero from '../components/Hero';
 import HowItWorksSteps from '../components/HowItWorksSteps';
 import IssueSimulator from '../components/IssueSimulator';

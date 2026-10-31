@@ -1,3 +1,4 @@
+'use client';
 import { ArrowUpRight, Play, Terminal, CheckCircle2, ShieldCheck } from 'lucide-react';
 import GithubIcon from './GithubIcon';
 import { siteConfig } from '../config/site.config';

@@ -1,3 +1,4 @@
+'use client';
 import { useState } from 'react';
 import { Terminal, Menu, X, ArrowUpRight, Search, Volume2, VolumeX } from 'lucide-react';
 import GithubIcon from './GithubIcon';

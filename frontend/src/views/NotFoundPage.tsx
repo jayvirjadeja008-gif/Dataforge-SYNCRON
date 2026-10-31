@@ -1,3 +1,4 @@
+'use client';
 import { Home, BookOpen } from 'lucide-react';
 import { AppRoute } from '../types';
 

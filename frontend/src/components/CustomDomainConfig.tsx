@@ -1,3 +1,4 @@
+'use client';
 import { useState } from 'react';
 import { Globe, Copy, Check, ShieldCheck, Server } from 'lucide-react';
 import { siteConfig } from '../config/site.config';

@@ -6,6 +6,10 @@ node_modules/
 # Production build artifacts
 dist/
 build/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
 
 # Python virtual environment & cache
 venv/

@@ -1,3 +1,4 @@
+'use client';
 // Real architecture pipeline diagram built in pure SVG
 // TODO: Replace with product screenshot if production dashboard visual capture is available
 export default function ArchitectureDiagram() {

@@ -1,3 +1,4 @@
+'use client';
 import { Tag, GitPullRequest, ArrowRight, Check, Code } from 'lucide-react';
 import { siteConfig } from '../config/site.config';
 

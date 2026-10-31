@@ -1,3 +1,4 @@
+'use client';
 import { Terminal, Mail, Shield, FileText, Globe } from 'lucide-react';
 import GithubIcon from './GithubIcon';
 import { AppRoute } from '../types';

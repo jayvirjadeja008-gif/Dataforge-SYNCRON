@@ -1,3 +1,4 @@
+'use client';
 import { Cpu, Server, AlertTriangle, Layers } from 'lucide-react';
 import { siteConfig } from '../config/site.config';
 import ArchitectureDiagram from '../components/ArchitectureDiagram';
@@ -92,7 +93,7 @@ export default function DocsPage() {
                 </tr>
                 <tr>
                   <td>Maintainer Dashboard</td>
-                  <td>Vite + React Static SPA</td>
+                  <td>Next.js 16 (App Router) + React 19</td>
                   <td>Client-side session memory</td>
                   <td>GitHub OAuth 2.0 PKCE flow</td>
                 </tr>

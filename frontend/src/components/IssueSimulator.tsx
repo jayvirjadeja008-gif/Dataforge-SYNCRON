@@ -1,3 +1,4 @@
+'use client';
 import { useState, useEffect, useCallback } from 'react';
 import { Tag, Copy, Check, X, GitPullRequest, ArrowRight, ArrowUpRight, RefreshCw, FileText, Key, ChevronDown, CheckCircle2, AlertCircle } from 'lucide-react';
 import GithubIcon from './GithubIcon';

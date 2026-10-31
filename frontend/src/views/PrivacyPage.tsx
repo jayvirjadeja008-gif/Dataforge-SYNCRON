@@ -1,3 +1,4 @@
+'use client';
 import { Shield, Lock, Eye, Trash2, Mail, Server } from 'lucide-react';
 import { siteConfig } from '../config/site.config';
 

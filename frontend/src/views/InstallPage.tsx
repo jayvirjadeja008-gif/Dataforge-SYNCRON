@@ -1,3 +1,4 @@
+'use client';
 import { useState } from 'react';
 import { Download, Copy, Check, ArrowRight, ShieldCheck, Server } from 'lucide-react';
 import GithubIcon from '../components/GithubIcon';

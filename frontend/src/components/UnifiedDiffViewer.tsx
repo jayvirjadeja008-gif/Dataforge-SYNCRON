@@ -1,3 +1,4 @@
+'use client';
 import { useState, useCallback } from 'react';
 import { Copy, Check, Download, Play, CheckCircle2, FileCode, ShieldCheck } from 'lucide-react';
 import { SuggestedPatch } from '../types';

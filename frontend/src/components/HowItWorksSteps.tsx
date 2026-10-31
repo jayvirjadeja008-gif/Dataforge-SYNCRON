@@ -1,3 +1,4 @@
+'use client';
 import { Download, Cpu, GitPullRequest, CheckCircle2 } from 'lucide-react';
 
 const STEPS = [

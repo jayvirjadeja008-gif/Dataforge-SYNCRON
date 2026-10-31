@@ -1,3 +1,4 @@
+'use client';
 import { FileText, AlertCircle, Scale, ShieldAlert, CheckCircle, Mail } from 'lucide-react';
 import { siteConfig } from '../config/site.config';
 
